@@ -21,7 +21,7 @@ This architecture pattern might be relevant for you if any of the following requ
 - You need to provide a secured filesystem per session 
 
 ## Quickstart
-
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kaibrach/gen-ai-code-execution-agent)
 The recommended way to execute the deployment is to fork the repo and then start a GitHub Codespace because there you will have all the tools to deploy the resources, test the code and try out the whole story end-to-end.
 The project resources can be deployed into the following Azure regions:
 - eastus
